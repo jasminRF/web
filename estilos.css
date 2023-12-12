@@ -1,0 +1,104 @@
+#conteiner{
+
+    width: 300px;
+    height: 100px;
+    padding: 30%;
+    text-align: center;
+    border: 159%;
+    background-size: 10%;
+}
+
+.back-img{
+   
+    background-image:url(https://media.artsper.com/artwork/1155576_1_m.jpg);
+    
+    background-repeat: no-repeat;
+    width: 350px;
+    height: 600px;
+    text-align: center;
+    padding-top: 350px;
+    color:white;
+    border: 8px outset gainsboro;
+
+ 
+}
+.back-img2{
+
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4o14QV1RW2L97Hn_V9vmpJcuxZmMBUhsXbHI2t5Mgkjo2lh72VxYFprzGRGFUFDl7Fkk&usqp=CAU);    background-size: 150%;
+    
+    background-repeat: no-repeat;
+    width: 350px;
+    height: 600px;
+    text-align: center;
+    padding-top: 350px;
+    color:white;
+    border: 8px outset gainsboro;
+    gap: 16px;
+}
+.back-img3{
+    background-image: url(https://www.artmajeur.com/medias/mini/h/i/hipoalessio/artwork/16288321_psx-20221117-170332.jpg);
+    
+    background-repeat: no-repeat;
+    width: 350px;
+    height: 600px;
+    text-align: center;
+    padding-top: 350px;
+    color:white;
+    border: 8px outset gainsboro;
+}
+.content{
+    width: 210px;
+    text-align: center;
+    padding-top: 3px;
+    color:white;
+    border: 3px outset gainsboro;
+}
+.content1{
+
+    width: 210px;
+    text-align: center;
+    padding-top: 3px;
+    color:white;
+    border: 3px outset gainsboro;
+}
+.content2{
+    width: 210px;
+    text-align: center;
+    padding-top: 3px;
+    color:white;
+    border: 3px outset gainsboro;
+}
+.content3{
+    width: 210px;
+    text-align: center;
+    padding-top: 3px;
+    color:white;
+    border: 3px outset gainsboro;
+}
+.content4{
+    width: 210px;
+    text-align: center;
+    padding-top: 3px;
+    color:white;
+    border: 3px outset gainsboro;
+}
+
+.btnsuccesss{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    font-size: 16px;
+    width: 250px;
+    padding: 30px;
+    height: 50px;
+    color: white;
+   font-family:Georgia, 'Times New Roman', Times, serif;
+}
+i{
+    font-size: 45px;
+    color:black;
+}
+
